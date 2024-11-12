@@ -7,5 +7,3 @@ function ImageShow({ image }) {
 }
 
 export default ImageShow;
-
-// Requirements for Keys
